@@ -1,4 +1,4 @@
 ## 
-* Sample code consits bacic flow of selenium selenium scraping 
+* Sample code consits bacic flow of selenium scraping 
  
 
