@@ -1,4 +1,2 @@
 ## 
-* Sample code consists basic flow of selenium scraping witj Java
- 
-
+* Sample code consists basic flow of selenium scraping with Java
